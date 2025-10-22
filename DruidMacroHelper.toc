@@ -1,4 +1,4 @@
-## Interface: 110007, 11507, 20504, 30400, 40401, 50500
+## Interface: 110007, 11508, 50500
 ## Title: DruidMacroHelper
 ## Version: 1.4.0
 ## Author: Mylaerla-Everlook
